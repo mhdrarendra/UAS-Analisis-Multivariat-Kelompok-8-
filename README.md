@@ -103,8 +103,5 @@ install.packages("ggplot2")
 
 ## 👨‍🔬 Penulis
 
-* Analisis oleh: 
-**\[Dayinta Agustina Zanuel]*
-**\[Tanti Ayu Hardiningtyas]*
-**\[Muhammad Rarendra Satiya]*
+* Analisis oleh: Dayinta Agustina Zanuel, Tanti Ayu Hardiningtyas, dan Muhammad Rarendra Satiya
 * Bahasa Pemrograman: R
